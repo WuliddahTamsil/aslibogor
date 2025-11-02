@@ -33,3 +33,6 @@ Pastikan server lokal (Laragon/XAMPP) sudah aktif dan *database* dengan nama `mi
     
 6.  Akses Aplikasi
     Buka browser dan akses alamat berikut: `http://127.0.0.1:8000`
+
+##Progres saat ini
+landingpage -> login -> direktori -> kumpulantoko
